@@ -1,0 +1,74 @@
+{
+  "user_db": {
+    "cell phone": {
+      "display_name": "Mouse",
+      "category": "Electronics",
+      "description": "laptop accessories,",
+      "size": "N/A",
+      "color": "Black",
+      "material": "Plastic",
+      "brand": "potronics",
+      "logo": "p logo, mouse button, back side red light falasing"
+    },
+    "remote": {
+      "display_name": "Earbuds",
+      "category": "Electronics",
+      "description": "Updated by user",
+      "size": "N/A"
+    },
+    "donut": {
+      "display_name": "Earbuds",
+      "category": "Electronics",
+      "description": "black colour and curvy shape roundness, smooth surface, liseting music use put on ear",
+      "size": "N/A",
+      "color": "black",
+      "material": "Plastic",
+      "brand": "boat",
+      "logo": "display charhging persentage"
+    }
+  },
+  "unknown_map": {
+    "knife": "Object1",
+    "refrigerator": "Object2",
+    "skateboard": "Object3",
+    "bowl": "Object4",
+    "banana": "Object5",
+    "handbag": "Object6",
+    "mouse": "Object7",
+    "bench": "Object8",
+    "vase": "Object9",
+    "car": "Object10",
+    "dining table": "Object11",
+    "scissors": "Object12",
+    "cat": "Object13",
+    "tv": "Object14",
+    "keyboard": "Object15",
+    "train": "Object17",
+    "snowboard": "Object18",
+    "suitcase": "Object19",
+    "tie": "Object20",
+    "fork": "Object21",
+    "bird": "Object22",
+    "stop sign": "Object23",
+    "oven": "Object25",
+    "boat": "Object26",
+    "sink": "Object27",
+    "hot dog": "Object28",
+    "airplane": "Object29",
+    "wine glass": "Object30",
+    "toothbrush": "Object31",
+    "traffic light": "Object32",
+    "teddy bear": "Object33",
+    "dog": "Object34",
+    "horse": "Object35",
+    "cow": "Unknown_Obj_36"
+  },
+  "unknown_count": 36,
+  "confirmed": [
+    "remote",
+    "cell phone",
+    "bottle",
+    "person",
+    "donut"
+  ]
+}

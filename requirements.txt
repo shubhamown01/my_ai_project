@@ -1,0 +1,19 @@
+# Core
+ultralytics>=8.0
+opencv-python>=4.8
+customtkinter>=5.2
+Pillow>=10.0
+numpy>=1.24
+pandas>=2.0
+
+# Security
+cryptography>=41.0
+
+# Activity detection (optional but recommended)
+mediapipe>=0.10
+
+# Training pipeline
+yt-dlp>=2024.1
+
+# Install command:
+# pip install -r requirements.txt
